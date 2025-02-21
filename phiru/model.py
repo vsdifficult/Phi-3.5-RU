@@ -1,4 +1,4 @@
-from src.standart_model import StandartModelEntity 
+from phiru.standart_model import StandartModelEntity 
 import torch
 import matplotlib.pyplot as plt
 import numpy as np

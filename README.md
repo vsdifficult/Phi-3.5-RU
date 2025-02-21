@@ -18,7 +18,7 @@ The Phi-3.5-RU model includes built-in presentation capabilities to help users u
 ### Usage Example
 
 ```python
-from src.model import Phi35MoERUModel
+from phiru.model import Phi35MoERUModel
 
 # Initialize the model
 model = Phi35MoERUModel()
